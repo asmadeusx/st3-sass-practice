@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/asmadeusx/st3-sass-practice#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "font-awesome": "^4.7.0",
     "parcel-bundler": "^1.12.4"
   },
   "devDependencies": {

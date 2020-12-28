@@ -8,6 +8,8 @@
     <link rel="stylesheet" type="text/css" href="/header.8bcbec1a.css">
     <link rel="stylesheet" type="text/css" href="/auth.c46cbb88.css">
     <link rel="stylesheet" type="text/css" href="/buy.8744698a.css">
+    <!-- Подключение Font Awesome для отображения иконки выпадающего списка -->
+    <script src="https://kit.fontawesome.com/f3c949d6ac.js" crossorigin="anonymous"></script>
     <title>Sass Practice</title>
 <script src="/main.54166fbf.js"></script><script src="/nav.d9766cfb.js"></script><script src="/header.8bcbec1a.js"></script><script src="/auth.c46cbb88.js"></script><script src="/buy.8744698a.js"></script></head>
 <body>
@@ -77,7 +79,13 @@
                         <div class="buy__domain">.com</div>
                     </div>
                     <div class="buy__select buy__help">
-                        v
+                        <i class="fas fa-angle-down buy__icon"></i>
+                        <ul class="select__dropdown">
+                            <li class="select__item">.COM</li>
+                            <li class="select__item">.NET</li>
+                            <li class="select__item">.RU</li>
+                            <li class="select__item">.ORG</li>
+                        </ul>
                     </div>
                 </div>
                 <div class="buy__table">
