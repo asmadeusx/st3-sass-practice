@@ -1,0 +1,24 @@
+{
+  "name": "st3-sass-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmadeusx/st3-sass-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmadeusx/st3-sass-practice/issues"
+  },
+  "homepage": "https://github.com/asmadeusx/st3-sass-practice#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
