@@ -8,10 +8,10 @@
     @include clear();
     list-style: none;
 }
-// Центрирование Флексом
-@mixin flex-center {
+// Центрирование по вертикали и горизонтали Флексом
+@mixin flex-center($dir:column) {
     display: flex;
-    flex-direction: column;
+    flex-direction: $dir;
     justify-content: center;
     align-items: center;
 }
