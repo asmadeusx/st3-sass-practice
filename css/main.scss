@@ -14,10 +14,11 @@ a{
     text-decoration: none;
 }
 .view-port{
-    max-width: $view-port;
+    width: $view-port;
     margin: 0 auto;
 }
 .wrapper{
+    background-color: $main-bg-color;
     display: flex;
     flex-direction: column;
     width: 100%;

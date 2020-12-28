@@ -2,7 +2,9 @@
 @import "./partials/params";
 
 .nav {
-    position: absolute;
+    // position: absolute; 
+    //По курсу Абсолют, но тогда не по центру экрана, и Марджин по бокам не применяется
+    position: relative;
     top: 0;
     left: 0;
     display: flex;
