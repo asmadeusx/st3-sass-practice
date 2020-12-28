@@ -1,0 +1,10 @@
+.auth {
+  display: flex;
+}
+.auth__link {
+  color: #ffffff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=/auth.c46cbb88.css.map */
