@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");body,html{width:100%;font-family:Roboto,sans-serif}body,h1,h2,h3,h4,h5,h6,html,p{margin:0;padding:0}a{text-decoration:none}.view-port{width:1200px;margin:0 auto}.wrapper{background-color:#000;width:100%;overflow:hidden}.first-screen,.wrapper{display:flex;flex-direction:column}.first-screen{flex-grow:1;height:100vh}.hide{display:none!important}
+/*# sourceMappingURL=/main.98df0fd5.css.map */
