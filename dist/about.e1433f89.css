@@ -1,0 +1,55 @@
+.about {
+  background-color: #ffffff;
+  padding: 40px;
+}
+.about__content {
+  display: flex;
+  padding-top: 20px;
+}
+.about__text {
+  width: 50%;
+  opacity: 0.7;
+  font-size: 14px;
+  border-right: 3px dotted #d9d9d9;
+}
+.about__title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.about__imgs {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+.about__profile {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.about__profile .profile__img {
+  margin-bottom: 5px;
+}
+.about__profile .profile__name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.about__profile .profile__job {
+  opacity: 0.7;
+  margin-bottom: 5px;
+}
+.about__profile .profile__soc {
+  opacity: 0.7;
+  margin-bottom: 5px;
+}
+.about__profile .profile__icon {
+  opacity: 0.7;
+  margin-right: 5px;
+  cursor: pointer;
+  transition: 0.3s color;
+}
+.about__profile .profile__icon:hover {
+  color: #0faff1;
+}
+
+/*# sourceMappingURL=/about.e1433f89.css.map */
