@@ -35,4 +35,8 @@ a {
   height: 100vh;
 }
 
+.hide {
+  display: none !important;
+}
+
 /*# sourceMappingURL=/main.54166fbf.css.map */
