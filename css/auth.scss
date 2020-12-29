@@ -11,5 +11,9 @@
         color: $c-white;
         font-weight: bold;
         text-transform: uppercase;
+        transition: .5s font-size;
+        &:hover{
+            font-size: 25px;
+        }
     }
 }

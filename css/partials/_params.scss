@@ -1,5 +1,7 @@
-// Цвета. Раздел Тарифов
-$c-yeloow: #f9d423;
+@import "./partials/mixins";
+
+// Цвета. Раздел Пакетов
+$c-yellow: #f9d423;
 $c-grey: #7f8c8d;
 $c-red: #ff1c1c;
 $c-cyan: #1abc9c;
@@ -13,6 +15,7 @@ $c-white: #ffffff;
 $main-bg-color: #000000;
 $buy-border-color: #d9d9d9;
 $buy-tablecell-textcolor: #b3b3b3;
+$package-item-color: #929292;
 // Размеры модулей
 $nav-height: 60px; //Высота меню
 $view-port: 1200px; //Ширина контента

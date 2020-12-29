@@ -17,6 +17,14 @@
         margin-left: 40px;
         font-weight: bold;
         font-size: 20px;
+        transition: .5s font-size;
+        &:hover{
+            font-size: 25px;
+        }
+        & .brand__link{
+            color: $c-white;
+        }
+
     }
     &__menu{
         @include clear-list;

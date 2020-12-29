@@ -8,6 +8,10 @@
   color: #ffffff;
   font-weight: bold;
   text-transform: uppercase;
+  transition: 0.5s font-size;
+}
+.auth__link:hover {
+  font-size: 25px;
 }
 
 /*# sourceMappingURL=/auth.c46cbb88.css.map */

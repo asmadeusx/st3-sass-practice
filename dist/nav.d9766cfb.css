@@ -13,6 +13,13 @@
   margin-left: 40px;
   font-weight: bold;
   font-size: 20px;
+  transition: 0.5s font-size;
+}
+.nav__brand:hover {
+  font-size: 25px;
+}
+.nav__brand .brand__link {
+  color: #ffffff;
 }
 .nav__menu {
   margin: 0;
